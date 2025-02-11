@@ -50,6 +50,6 @@
 	<string>このアプリはBluetoothを使用してデバイスと通信します。</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
 	<string>このアプリはBluetoothを使用してデバイスと通信します。</string>
-
+    
 </dict>
 </plist>
